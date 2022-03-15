@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dghul0u8m3f60d5r/branch/master?svg=true)](https://ci.appveyor.com/project/RebikHub/ra-lifecycle-watches/branch/master)
 
 [Мировые часы](https://rebikhub.github.io/ra-lifecycle-watches/)
 
