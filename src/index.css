@@ -2,3 +2,68 @@
   margin: 0;
   padding: 0;
 }
+
+#root {
+  display: flex;
+  flex-direction: column;
+  width: 900px;
+  margin: 20px auto;
+}
+
+.form {
+  display: flex;
+  justify-content: space-around;
+}
+.input-name, .input-timezone {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+}
+
+input {
+  height: 25px;
+  padding-left: 3px;
+}
+.form-btn {
+  width: 15%;
+  height: 25px;
+  align-self: end;
+  border: 1px solid;
+  background-color: white;
+}
+.watches-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.watches {
+  margin: 10px;
+  width: 20%;
+}
+.wathes-head {
+  display: flex;
+}
+.title {
+  font-size: 20px;
+}
+.clock-board {
+  display: flex;
+}
+.clock-remove {
+  align-self: center;
+  margin-left: auto;
+  border: 1px solid;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  background-image: url(../image/remove.png);
+  background-size: contain;
+
+}
+
+.clock {
+  margin: 5px auto;
+  font-size: xxx-large;
+  background-color: #0000000f;
+  text-align: center;
+}
