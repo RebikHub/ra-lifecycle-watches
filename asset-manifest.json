@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-lifecycle-watches/static/css/main.ff8fa311.css",
+    "main.js": "/ra-lifecycle-watches/static/js/main.00b8b82e.js",
+    "index.html": "/ra-lifecycle-watches/index.html",
+    "main.ff8fa311.css.map": "/ra-lifecycle-watches/static/css/main.ff8fa311.css.map",
+    "main.00b8b82e.js.map": "/ra-lifecycle-watches/static/js/main.00b8b82e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff8fa311.css",
+    "static/js/main.00b8b82e.js"
+  ]
+}
